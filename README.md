@@ -111,6 +111,6 @@ def current_datetime(request):
 
 ------------------------------
 
-####장고에서 인공지능 모델을 공부하려면 https://gaussian37.github.io/ml-sklearn-saving-model/ 이분의 깃허브를 참고해서 모델을 피클파일로 저장하여 자신의 장고에서 load를 하면 된다.
+#### 장고에서 인공지능 모델을 공부하려면 https://gaussian37.github.io/ml-sklearn-saving-model/ 이분의 깃허브를 참고해서 모델을 피클파일로 저장하여 자신의 장고에서 load를 하면 된다.
 -----------------------------------
 보고 배운 책 : 파이썬 웹 프로그래밍
